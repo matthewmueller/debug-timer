@@ -1,0 +1,17 @@
+{
+  "name": "debug-timer",
+  "repo": "matthewmueller/debug-timer",
+  "description": "time things. output to visionmedia/debug",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {
+    "visionmedia/debug": "*",
+    "guille/ms.js": "*"
+  },
+  "development": {},
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ]
+}

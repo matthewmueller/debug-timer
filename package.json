@@ -1,0 +1,16 @@
+{
+  "name": "debug-timer",
+  "version": "0.0.1",
+  "description": "time things. output to visionmedia/debug",
+  "main": "index.js",
+  "keywords": [
+    "timer",
+    "debug"
+  ],
+  "dependencies": {
+    "ms": "*",
+    "debug": "*"
+  },
+  "author": "Matthew Mueller",
+  "license": "MIT"
+}
